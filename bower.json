@@ -1,0 +1,30 @@
+{
+  "name": "js-filesaver",
+  "description": "A lightweight filesaver for the browser",
+  "main": "src/filesaver.js",
+  "authors": [
+    "Tristian Flanagan <contact@tristianflanagan.com> (https://github.com/tflanagan)"
+  ],
+  "license": "Apache-2.0",
+  "keywords": [
+    "filesaver",
+    "file",
+    "save",
+    "download"
+  ],
+  "homepage": "https://github.com/tflanagan/js-filesaver",
+  "moduleType": [
+    "globals",
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    ".gitignore",
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tflanagan/js-filesaver.git"
+  },
+  "private": false
+}
