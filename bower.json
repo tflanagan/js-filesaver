@@ -20,7 +20,7 @@
   "ignore": [
     "**/.*",
     "node_modules",
-    ".gitignore",
+    ".gitignore"
   ],
   "repository": {
     "type": "git",
