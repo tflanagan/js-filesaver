@@ -21,9 +21,9 @@
 	}else
 	if(typeof module !== 'undefined' && module.exports){
 		module.exports = factory();
-	}else{
-		window.FileSaver = factory();
 	}
+
+	window.FileSaver = factory();
 })(function(){
 	'use strict';
 
